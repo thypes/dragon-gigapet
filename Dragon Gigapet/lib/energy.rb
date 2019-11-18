@@ -1,6 +1,6 @@
 class Energy
 
-    attr_reader = :value_energy
+    attr_reader :value_energy
 
     MAX_ENERGY = 100
     HIGH_ENERGY = 85
